@@ -2,7 +2,7 @@
 
 var
   h, x, s, a, b, p, pl: real;
-  i, n,m: integer;
+  i, n, m: integer;
 
 function f(var x: real): real;
 begin
