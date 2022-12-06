@@ -82,5 +82,5 @@ begin
       4: proc3; 
       5: proc4;
     end;
-  until n = 0;
+  until m = 0;
 end.
